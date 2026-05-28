@@ -1,0 +1,27 @@
+[
+
+    {
+        "id": 1,
+        "name": "Softcare live in conditioner",
+        "price": 34.99,
+        "description": "low quality"
+    },
+     {
+        "id": 2,
+        "name": "minimal live in conditioner",
+        "price": 40.99,
+        "description": "normal quality"
+    },
+     {
+        "id": 3,
+        "name": "Standard live in conditioner",
+        "price": 47.99,
+        "description": "beginner frienly quality"
+    },
+     {
+        "id": 4,
+        "name": "ultra live in conditioner",
+        "price": 55.99,
+        "description": "highest quality"
+    }
+]
